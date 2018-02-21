@@ -1,0 +1,16 @@
+.text-orange {
+    color: #f05f40;
+}
+
+hr.light {
+  border-color: #f05f40; }
+
+.bg-pattern-orange{
+    background: url("../../img/bg-pattern.png") repeat;
+    background-color: #F05F40 !important;
+}
+
+.bg-pattern-white{
+    background: url("../../img/bg-pattern black.png") repeat;
+    background-color: white !important;
+}
